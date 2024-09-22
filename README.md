@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá sou o Daniel Kotsugai estudante de ADS 👋
+## Olá! 👋
+Sou um estudante Banco de Dados e atualmente trabalho como Analista Jr na Avanade. Tenho um grande interesse por tecnologia e inovação, sempre buscando aprimorar minhas habilidades e aprender novas ferramentas no universo do desenvolvimento de software.
+
+Quando não estou mergulhado em projetos e estudos, gosto de me desafiar em jogos de computador 🎮 e praticar musculação 💪, sempre buscando equilíbrio entre mente e corpo.
+
+No meu GitHub, você vai encontrar projetos relacionados a desenvolvimento de software e algumas experiências práticas em programação. Estou sempre aberto a novas ideias e colaborações, então fique à vontade para explorar e contribuir!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
