@@ -32,9 +32,6 @@ No meu GitHub, você vai encontrar projetos relacionados a desenvolvimento de so
   <img align="center" alt="Daniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Daniel-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 
-  <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/ff/a9/46/ffa9469dc6671e8fc9a59083e68882e3.jpg">
