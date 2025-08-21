@@ -19,13 +19,6 @@ Quando não estou mergulhado em projetos e estudos, gosto de me desafiar em jogo
 
 No meu GitHub, você vai encontrar projetos relacionados a desenvolvimento de software e algumas experiências práticas em programação. Estou sempre aberto a novas ideias e colaborações, então fique à vontade para explorar e contribuir!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Daniel-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/ff/a9/46/ffa9469dc6671e8fc9a59083e68882e3.jpg">
-</div>
-  
   ##
  
 <div> 
